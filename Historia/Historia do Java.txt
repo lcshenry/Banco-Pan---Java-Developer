@@ -1,0 +1,27 @@
+Historia do Java
+
+=> É uma linguagem de progrmação orientada a objetos
+desenvolvida na decada de 90, na empresa Sun Microsystems e posteriormente adquirida pela Oracle em 2008.
+
+=> Desde seu lançamento, em maio de 1995, a plataforma Java foi adotada mais rapidamente do que qualquer outra linguagem de programação na historia da computação.
+
+=> Tornou-se popular pelo seu uso na internet e está presente, em navegadores,programas e jogos de computador, celular,calculadoras, e etc...
+
+Programa.java > Compilador > Programa.class > JVM > 10000010000010001
+
+=> Diferente das linguagens de programação compiladas, (a compilação do codigo se da ainda em tempo de desenvolvimento) a linguagem Java é compilada para um bytecode que é interpretado por uma maquina virtual (JVM).
+
+=> A linguagem de programação Java é a linguagem convencional da Plataforma Java, mas não é a sua unica linguagem.
+
+=> Uma grande vantagem da plataforma: Não estar preso a um OS especifico, hardware. Os programas rodam atraves de uma maquina virtual que pode ser emulada.
+
+=> JAVA SE (Java Plataform, Standard Edition)
+=> JAVA EE (Java Plataform, Enterprise Edition)
+=> JAVA ME (Java Plataform, Micro Edition)
+
+1 > Esrevemos o seu codigo-fonte (arquivo com a extensão .java)
+
+2 > Utilizamos o JDK para compilar o seu codigo-fonte e gerar o arquivo bytecode (arquivo com extensão .class)
+
+3 > Para executar o seu programa, a JVM lê o arquivo compilado (.class) e as bibliotecas padrões do Java que estão no JRE
+ 
